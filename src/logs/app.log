@@ -1,0 +1,103 @@
+[2025-01-05 15:53:30] [INFO] Gemini Live Application Started.
+[2025-01-05 15:53:30] [INFO] Starting AudioOnlyHandler.
+[2025-01-05 15:53:32] [INFO] Audio listen task started.
+[2025-01-05 15:53:33] [INFO] Audio send task started.
+[2025-01-05 15:53:33] [INFO] Audio receive task started.
+[2025-01-05 15:53:33] [INFO] Audio play task started.
+[2025-01-05 16:16:53] [INFO] Starting AudioOnlyHandler.
+[2025-01-05 16:16:53] [INFO] Starting AudioOnlyHandler.
+[2025-01-05 16:16:55] [INFO] Audio listen task started.
+[2025-01-05 16:16:55] [INFO] Audio listen task started.
+[2025-01-05 16:16:56] [INFO] Audio send task started.
+[2025-01-05 16:16:56] [INFO] Audio send task started.
+[2025-01-05 16:16:56] [INFO] Audio receive task started.
+[2025-01-05 16:16:56] [INFO] Audio receive task started.
+[2025-01-05 16:16:56] [INFO] Audio play task started.
+[2025-01-05 16:16:56] [INFO] Audio play task started.
+[2025-01-05 16:17:34] [INFO] Starting TextOnlyHandler.
+[2025-01-05 16:17:34] [INFO] Starting TextOnlyHandler.
+[2025-01-05 16:17:34] [INFO] Starting TextOnlyHandler.
+[2025-01-05 16:17:34] [INFO] Starting TextOnlyHandler.
+[2025-01-05 16:17:36] [INFO] Text send task started.
+[2025-01-05 16:17:36] [INFO] Text send task started.
+[2025-01-05 16:17:36] [INFO] Text send task started.
+[2025-01-05 16:17:36] [INFO] Text send task started.
+[2025-01-05 16:17:36] [INFO] Text receive task started.
+[2025-01-05 16:17:36] [INFO] Text receive task started.
+[2025-01-05 16:17:36] [INFO] Text receive task started.
+[2025-01-05 16:17:36] [INFO] Text receive task started.
+[2025-01-05 16:17:36] [INFO] Text play task started.
+[2025-01-05 16:17:36] [INFO] Text play task started.
+[2025-01-05 16:17:36] [INFO] Text play task started.
+[2025-01-05 16:17:36] [INFO] Text play task started.
+[2025-01-05 16:18:07] [ERROR] Error in send_text: 
+[2025-01-05 16:18:07] [ERROR] Error in send_text: 
+[2025-01-05 16:18:07] [ERROR] Error in send_text: 
+[2025-01-05 16:18:07] [ERROR] Error in send_text: 
+[2025-01-05 16:18:07] [ERROR] Error in send_text: 
+[2025-01-05 16:18:07] [ERROR] Error in send_text: 
+[2025-01-05 16:18:07] [ERROR] Error in listen_audio: cannot schedule new futures after shutdown
+[2025-01-05 16:18:07] [ERROR] Error in listen_audio: cannot schedule new futures after shutdown
+[2025-01-05 16:18:07] [ERROR] Error in listen_audio: cannot schedule new futures after shutdown
+[2025-01-05 16:18:07] [ERROR] Error in listen_audio: cannot schedule new futures after shutdown
+[2025-01-05 16:18:07] [ERROR] Error in listen_audio: cannot schedule new futures after shutdown
+[2025-01-05 16:18:07] [ERROR] Error in listen_audio: cannot schedule new futures after shutdown
+[2025-01-05 16:23:23] [INFO] Starting AudioOnlyHandler.
+[2025-01-05 16:23:23] [INFO] Starting AudioOnlyHandler.
+[2025-01-05 16:23:26] [INFO] Audio listen task started.
+[2025-01-05 16:23:26] [INFO] Audio listen task started.
+[2025-01-05 16:23:26] [INFO] Audio send task started.
+[2025-01-05 16:23:26] [INFO] Audio send task started.
+[2025-01-05 16:23:26] [INFO] Audio receive task started.
+[2025-01-05 16:23:26] [INFO] Audio receive task started.
+[2025-01-05 16:23:26] [INFO] Audio play task started.
+[2025-01-05 16:23:26] [INFO] Audio play task started.
+[2025-01-05 16:25:51] [INFO] Starting AudioOnlyHandler.
+[2025-01-05 16:25:51] [INFO] Starting AudioOnlyHandler.
+[2025-01-05 16:25:51] [INFO] Starting AudioOnlyHandler.
+[2025-01-05 16:25:51] [INFO] Starting AudioOnlyHandler.
+[2025-01-05 16:25:51] [INFO] Starting AudioOnlyHandler.
+[2025-01-05 16:25:53] [INFO] Audio listen task started.
+[2025-01-05 16:25:53] [INFO] Audio listen task started.
+[2025-01-05 16:25:53] [INFO] Audio listen task started.
+[2025-01-05 16:25:53] [INFO] Audio listen task started.
+[2025-01-05 16:25:53] [INFO] Audio listen task started.
+[2025-01-05 16:25:53] [INFO] Audio send task started.
+[2025-01-05 16:25:53] [INFO] Audio send task started.
+[2025-01-05 16:25:53] [INFO] Audio send task started.
+[2025-01-05 16:25:53] [INFO] Audio send task started.
+[2025-01-05 16:25:53] [INFO] Audio send task started.
+[2025-01-05 16:25:53] [INFO] Audio receive task started.
+[2025-01-05 16:25:53] [INFO] Audio receive task started.
+[2025-01-05 16:25:53] [INFO] Audio receive task started.
+[2025-01-05 16:25:53] [INFO] Audio receive task started.
+[2025-01-05 16:25:53] [INFO] Audio receive task started.
+[2025-01-05 16:25:53] [INFO] Audio play task started.
+[2025-01-05 16:25:53] [INFO] Audio play task started.
+[2025-01-05 16:25:53] [INFO] Audio play task started.
+[2025-01-05 16:25:53] [INFO] Audio play task started.
+[2025-01-05 16:25:53] [INFO] Audio play task started.
+[2025-01-05 16:26:56] [ERROR] Error in receive_audio: received 1011 (internal error) Request trace id: f69f49da4081156f, [ORIGINAL ERROR] RPC::DEADLINE_EXCEEDED: ; then sent 1011 (internal error) Request trace id: f69f49da4081156f, [ORIGINAL ERROR] RPC::DEADLINE_EXCEEDED: 
+[2025-01-05 16:26:56] [ERROR] Error in receive_audio: received 1011 (internal error) Request trace id: f69f49da4081156f, [ORIGINAL ERROR] RPC::DEADLINE_EXCEEDED: ; then sent 1011 (internal error) Request trace id: f69f49da4081156f, [ORIGINAL ERROR] RPC::DEADLINE_EXCEEDED: 
+[2025-01-05 16:26:56] [ERROR] Error in receive_audio: received 1011 (internal error) Request trace id: f69f49da4081156f, [ORIGINAL ERROR] RPC::DEADLINE_EXCEEDED: ; then sent 1011 (internal error) Request trace id: f69f49da4081156f, [ORIGINAL ERROR] RPC::DEADLINE_EXCEEDED: 
+[2025-01-05 16:26:56] [ERROR] Error in receive_audio: received 1011 (internal error) Request trace id: f69f49da4081156f, [ORIGINAL ERROR] RPC::DEADLINE_EXCEEDED: ; then sent 1011 (internal error) Request trace id: f69f49da4081156f, [ORIGINAL ERROR] RPC::DEADLINE_EXCEEDED: 
+[2025-01-05 16:26:56] [ERROR] Error in receive_audio: received 1011 (internal error) Request trace id: f69f49da4081156f, [ORIGINAL ERROR] RPC::DEADLINE_EXCEEDED: ; then sent 1011 (internal error) Request trace id: f69f49da4081156f, [ORIGINAL ERROR] RPC::DEADLINE_EXCEEDED: 
+[2025-01-05 16:26:56] [ERROR] Error in receive_audio: received 1011 (internal error) Request trace id: f69f49da4081156f, [ORIGINAL ERROR] RPC::DEADLINE_EXCEEDED: ; then sent 1011 (internal error) Request trace id: f69f49da4081156f, [ORIGINAL ERROR] RPC::DEADLINE_EXCEEDED: 
+[2025-01-05 16:27:36] [ERROR] Error in receive_audio: received 1011 (internal error) Request trace id: 17d8638caf1e7a97, [ORIGINAL ERROR] RPC::DEADLINE_EXCEEDED: ; then sent 1011 (internal error) Request trace id: 17d8638caf1e7a97, [ORIGINAL ERROR] RPC::DEADLINE_EXCEEDED: 
+[2025-01-05 16:27:36] [ERROR] Error in receive_audio: received 1011 (internal error) Request trace id: 17d8638caf1e7a97, [ORIGINAL ERROR] RPC::DEADLINE_EXCEEDED: ; then sent 1011 (internal error) Request trace id: 17d8638caf1e7a97, [ORIGINAL ERROR] RPC::DEADLINE_EXCEEDED: 
+[2025-01-05 16:27:36] [ERROR] Error in receive_audio: received 1011 (internal error) Request trace id: 17d8638caf1e7a97, [ORIGINAL ERROR] RPC::DEADLINE_EXCEEDED: ; then sent 1011 (internal error) Request trace id: 17d8638caf1e7a97, [ORIGINAL ERROR] RPC::DEADLINE_EXCEEDED: 
+[2025-01-05 16:27:36] [ERROR] Error in receive_audio: received 1011 (internal error) Request trace id: 17d8638caf1e7a97, [ORIGINAL ERROR] RPC::DEADLINE_EXCEEDED: ; then sent 1011 (internal error) Request trace id: 17d8638caf1e7a97, [ORIGINAL ERROR] RPC::DEADLINE_EXCEEDED: 
+[2025-01-05 16:27:36] [ERROR] Error in receive_audio: received 1011 (internal error) Request trace id: 17d8638caf1e7a97, [ORIGINAL ERROR] RPC::DEADLINE_EXCEEDED: ; then sent 1011 (internal error) Request trace id: 17d8638caf1e7a97, [ORIGINAL ERROR] RPC::DEADLINE_EXCEEDED: 
+[2025-01-05 16:27:36] [ERROR] Error in receive_audio: received 1011 (internal error) Request trace id: 17d8638caf1e7a97, [ORIGINAL ERROR] RPC::DEADLINE_EXCEEDED: ; then sent 1011 (internal error) Request trace id: 17d8638caf1e7a97, [ORIGINAL ERROR] RPC::DEADLINE_EXCEEDED: 
+[2025-01-05 16:27:41] [ERROR] Error in listen_audio: cannot schedule new futures after shutdown
+[2025-01-05 16:27:41] [ERROR] Error in listen_audio: cannot schedule new futures after shutdown
+[2025-01-05 16:27:41] [ERROR] Error in listen_audio: cannot schedule new futures after shutdown
+[2025-01-05 16:27:41] [ERROR] Error in listen_audio: cannot schedule new futures after shutdown
+[2025-01-05 16:27:41] [ERROR] Error in listen_audio: cannot schedule new futures after shutdown
+[2025-01-05 16:27:41] [ERROR] Error in listen_audio: cannot schedule new futures after shutdown
+[2025-01-05 16:27:41] [ERROR] Error in listen_audio: cannot schedule new futures after shutdown
+[2025-01-05 16:27:41] [ERROR] Error in listen_audio: cannot schedule new futures after shutdown
+[2025-01-05 16:27:41] [ERROR] Error in listen_audio: cannot schedule new futures after shutdown
+[2025-01-05 16:27:41] [ERROR] Error in listen_audio: cannot schedule new futures after shutdown
+[2025-01-05 16:27:41] [ERROR] Error in listen_audio: cannot schedule new futures after shutdown
+[2025-01-05 16:27:41] [ERROR] Error in listen_audio: cannot schedule new futures after shutdown
