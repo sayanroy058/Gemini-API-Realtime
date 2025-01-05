@@ -1,5 +1,5 @@
+sudo apt-get install portaudio19-dev
 packaging
-PortAudio
 sounddevice
 colorama==0.4.6
 exceptiongroup==1.2.2
