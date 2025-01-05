@@ -1,4 +1,3 @@
-!sudo apt-get install portaudio19-dev
 packaging
 sounddevice
 colorama==0.4.6
